@@ -25,3 +25,7 @@ The models we tested are in modeling.ipynb
 - go to working directory 
 - ```python manage.py runserver```
 You will be able to enter an email and the api will be predict if it is a spam or not (return 1 if spam, 0 if not)
+
+### Conclusion
+
+Best score obtained with RandomForest model with 111 trees and an acurracy score of 0.950477845351868
