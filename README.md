@@ -1,7 +1,12 @@
-# **Spambase Data Set**
-# Project Python for Data Analysis
+
+# Project Python for Data Analysis : Spambase Data Set
 Syrine Bouchelleghem and Hajar Azzouzi
 
+## Tasks 
+The goal of this project is to :
+- visualize the link between the variables and the target by using different libraries.
+- Testing Machine Learning models on the data set to predict the class of an email (use the scikit-learn library)
+- Tranform the model into a Django API
 
 ## Description of the Data Set
 Data Set is from : https://archive.ics.uci.edu/ml/datasets/spambase
@@ -11,4 +16,9 @@ Data Set is from : https://archive.ics.uci.edu/ml/datasets/spambase
  - 1 nominal {0,1} class attribute of type spam = denotes whether the e-mail was considered spam (1) or not (0)
 
 ## Our work 
-Vizualizations of the raw data can be found in the file visualization
+Visualizations of the raw data can be found in the file visualization.ipynb.
+The models we tested are in modeling.ipynb
+
+### Run the API 
+
+## Conclusion 
