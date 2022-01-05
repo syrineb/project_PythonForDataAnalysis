@@ -1,6 +1,6 @@
 
 # Project Python for Data Analysis : Spambase Data Set
-Syrine Bouchelleghem and Hajar Azzouzi
+Syrine Bouchelleghem and Hajar Azzouzi (https://github.com/HajarAzz)
 
 ## Tasks 
 The goal of this project is to :
