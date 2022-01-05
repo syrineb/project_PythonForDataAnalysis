@@ -20,5 +20,8 @@ Visualizations of the raw data can be found in the file visualization.ipynb.
 The models we tested are in modeling.ipynb
 
 ### Run the API 
-
-## Conclusion 
+- download api.zip and unzip
+- open new terminal
+- go to working directory 
+- ```python manage.py runserver```
+You will be able to enter an email and the api will be predict if it is a spam or not (return 1 if spam, 0 if not)
